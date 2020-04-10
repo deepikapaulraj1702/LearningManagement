@@ -1,0 +1,6 @@
+com\kgisl\crud\learningmanagement\repository\UserRepository.class
+com\kgisl\crud\learningmanagement\service\UserService.class
+com\kgisl\crud\learningmanagement\entity\User.class
+com\kgisl\crud\learningmanagement\LearningmanagementApplication.class
+com\kgisl\crud\learningmanagement\service\UserServiceImpl.class
+com\kgisl\crud\learningmanagement\controller\UserController.class
